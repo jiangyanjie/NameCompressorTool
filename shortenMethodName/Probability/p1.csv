@@ -1,0 +1,754 @@
+tst,test,0.6923076923076923
+len,length,1.0
+upnp,universal plug and play,1.0
+hc,health check,1.0
+auth,authorize,1.0
+dl,download,0.9655172413793104
+ieee,institute of electrical and electronics engineers,1.0
+vo,volume,1.0
+admin,administrator,0.038461538461538464
+uv,ultraviolet,1.0
+datas,datas,1.0
+fqdn,fully qualified domain name,1.0
+i,into,0.05714285714285714
+prev,previous,1.0
+nd,node,1.0
+cert,certificate,1.0
+motd,message of the day,1.0
+mult,multiplication,0.15384615384615385
+t,trace,0.07692307692307693
+deg,degree,1.0
+etsi,extension,1.0
+dq,data quality,1.0
+passwd,password,1.0
+const,constant,1.0
+neg,negative,1.0
+inv,inverse,0.03333333333333333
+utf,unicode transformation format,1.0
+sub,subject,0.043478260869565216
+fm,frequency modulation,1.0
+non,nonce,0.25
+ms,metadatas,0.02631578947368421
+idx,index,1.0
+ofb,output feedback,1.0
+l,limit,0.2
+addr,address,1.0
+pcbc,plain propagating cipher block chaining,1.0
+r,resolve,0.5
+i,ingredient,0.02857142857142857
+coeff,coefficient,1.0
+i,is#invertible#in,0.02857142857142857
+r,resource,0.1
+dir,directory,1.0
+i,inner,0.14285714285714285
+f,final,0.6511627906976745
+fet,field effect transistor,1.0
+navi,navigation,1.0
+fu,file upload,1.0
+p,parameter,0.07692307692307693
+xa,extended architecture,1.0
+aad,additional authenticated data,1.0
+ror,rotate right,1.0
+dto,data transfer object,0.4444444444444444
+oc,optical carrier,1.0
+cmov,conditional move,1.0
+m,management,0.04
+ui,user interface,1.0
+ro,read only,1.0
+config,configuration,0.9863945578231292
+fd,floppy drive,0.6666666666666666
+tc,transmission control,1.0
+dss,digital signature standard,1.0
+fg,floating gate,1.0
+s,single,0.06666666666666667
+p,parse,0.05128205128205128
+lsb,least significant bit,1.0
+ctor,constructor,1.0
+td,transmit data,1.0
+eol,end of list,1.0
+cadd,computer aided design and drafting,1.0
+avg,average,1.0
+res,resource,1.0
+vb,variable block,1.0
+ldap,lightweight directory access protocol,1.0
+pss,process status structure,1.0
+a,add#all,0.10714285714285714
+tes,test,1.0
+txt,text,1.0
+gmt,greenwich mean time,1.0
+intra,interval,0.5
+der,distinguished encoding rules,1.0
+eq,equal,1.0
+explict,explicit,1.0
+lw,lazy write,1.0
+det,device execute trigger,1.0
+k,key,0.9285714285714286
+inc,increment,1.0
+prng,pseudo random number generation,1.0
+bc,block cipher,1.0
+p,prime,0.20512820512820512
+exp,export,0.9642857142857143
+hearbeats,heartbeats,1.0
+proto,protocol,1.0
+h,high,1.0
+nms,network management system,1.0
+millis,milliseconds,1.0
+subsciption,subscription,1.0
+m,math,0.04
+dm,distributed memory,1.0
+opt,optimization,1.0
+vect,vector,1.0
+acc,accumulator,1.0
+incr,increment,1.0
+xml,extensible markup language,1.0
+pkg,package,1.0
+attr,attribute,1.0
+rc,resource,1.0
+jms,java message service,1.0
+grad,gradient,1.0
+pct,picture,1.0
+m,match,0.08
+est,eastern standard time,1.0
+mod,module,0.6666666666666666
+psk,phase shift keying,1.0
+ack,acknowledgment,1.0
+c,cluster,0.23333333333333334
+ls,lists,0.25
+do,data object,0.56
+ble,branch if less or equal,1.0
+x,xe,1.0
+rect,rectangle,1.0
+tr,transmit receive,1.0
+funcs,functions,1.0
+c,canonical,0.06666666666666667
+pvp,parallel vector processing,1.0
+rgb,red green blue,1.0
+ccm,crystal configuration manager,1.0
+md,metadata,0.9696969696969697
+v,valid,0.1
+ecc,error checking and correction,1.0
+c,checksum,0.26666666666666666
+opcode,operational code,1.0
+jdbc,java database connectivity,1.0
+jca,java cryptography architecture,1.0
+ext,extended,0.019230769230769232
+init,initialized,0.0033500837520938024
+jre,java runtime environment,1.0
+spi,service provider interface,1.0
+pre,prevent,0.014705882352941176
+mul,multiplication,0.008928571428571428
+msql,mini sql,1.0
+priv,privilege,1.0
+b,before,0.5813953488372093
+nano,one thousand millionth,1.0
+uuid,universal unique identifier,1.0
+a,all,0.14285714285714285
+dn,down,1.0
+gen,generator,0.8333333333333334
+cannt,cannot,1.0
+lf,line feed,1.0
+iso,international organization for standardization,1.0
+dec,decimal,0.8148148148148148
+mem,memory,1.0
+e,encode,0.25
+configs,configurations,0.9636363636363636
+sig,signature,0.019230769230769232
+z,compressed file upper case z,1.0
+cts,computer telephony solution,1.0
+del,delete,1.0
+l,load,0.2
+coords,coordinates,1.0
+init,initializes,0.023450586264656615
+dtd,document type definition,1.0
+cpu,central processing unit,1.0
+cms,conversation monitor system,1.0
+exp,exponentiation,0.03571428571428571
+zk,zookeeper,0.38095238095238093
+dfs,distributed file system,1.0
+ext,extend,0.9807692307692307
+sql,structured query language,1.0
+sess,session,1.0
+to,time out,1.0
+csl,computer sensitive language,1.0
+wildard,wildcard,1.0
+mss,multiprotocol switched services,1.0
+func,function,1.0
+gcm,google cloud messaging,1.0
+pbe,password based encryption,0.07692307692307693
+c,combos,0.03333333333333333
+fd,file descriptor,0.3333333333333333
+multi,multipart,0.6
+ee,extended edition,1.0
+ge,get,1.0
+rnd,random,1.0
+adminstrator,administrator,1.0
+tps,transaction processing system,1.0
+acls,access control list,1.0
+can,cancel,1.0
+alg,algorithm,1.0
+nanos,nanoseconds,1.0
+nist,national institute for standards and technology,1.0
+p,public,0.05128205128205128
+md,message digest,0.030303030303030304
+p,parameters,0.10256410256410256
+cas,communications application specification,1.0
+mult,multiplies,0.25
+b,box,0.03488372093023256
+fn,function,1.0
+posix,portable operating system interface for unix,1.0
+mic,message integrity check,1.0
+rm,reset mode,1.0
+rl,rotate left,1.0
+nl,new line,1.0
+kpg,key pair generator,1.0
+cpus,central processing unit,1.0
+tsp,telephony service provider,1.0
+m,message,0.16
+f,function,0.023255813953488372
+a,append,0.03571428571428571
+i,id,0.11428571428571428
+mtu,maximum transfer transmission unit,1.0
+pbe,prompt by example,0.9230769230769231
+gzip,gnu zip,1.0
+buf,buffer,1.0
+os,operating system,1.0
+cmd,command,1.0
+conf,configuration,0.2222222222222222
+nav,navigation,1.0
+rssi,received signal strength indicator,1.0
+hex,hexadecimal,1.0
+b,broker,0.05813953488372093
+enc,encoded,1.0
+tbs,time based sampling,1.0
+c,color,0.03333333333333333
+mgf,mask generation function,1.0
+ch,char,1.0
+siv,system integrity verifier,1.0
+s,server,0.03333333333333333
+bk,backup,1.0
+rfc,request for comments,1.0
+ann,annotations,1.0
+up,user profile,1.0
+cim,computer integrated manufacturing,1.0
+stderr,standard error,1.0
+m,move,0.04
+cos,customer order specification,1.0
+db,database,0.21739130434782608
+op,operator,1.0
+pk,public key,0.3333333333333333
+ls,lights,0.25
+m,multiplier,0.08
+ecd,enhanced color display,1.0
+gen,generation,0.16666666666666666
+t,the,0.07692307692307693
+pki,public key infrastructure,1.0
+params,parameters,1.0
+tcp,tape carrier package,1.0
+tld,top level domain,1.0
+f,fast,0.046511627906976744
+alloc,allocate,0.5
+lru,least recently used,1.0
+crlf,carriage return line feed,1.0
+cnt,count,1.0
+src,source,1.0
+config,configured,0.0022675736961451248
+ints,integers,0.9230769230769231
+vdu,visual display unit,1.0
+rs,recommended standard,1.0
+l,long,0.2
+msg,message,1.0
+lfu,least frequently used,1.0
+ct,chips and technologies,1.0
+dont,doesnt,1.0
+add,addition,0.030612244897959183
+ls,like site,0.25
+sched,schedule,1.0
+g,group,0.4
+mp,multiple processors,1.0
+app,applications,0.0072992700729927005
+param,parameter,1.0
+a,aa,0.03571428571428571
+ff,form feed,1.0
+uknown,unknown,1.0
+mtf,modulation transfer function,1.0
+c,create,0.06666666666666667
+b,broker#basic,0.011627906976744186
+ber,basic encoding rules,1.0
+csr,certificate signing request,1.0
+crl,certificate revocation list,1.0
+a,as,0.10714285714285714
+s,skein,0.03333333333333333
+mult,multiple,0.5961538461538461
+algs,algorithms,1.0
+struct,structure,1.0
+px,primary index,1.0
+crc,cyclic redundancy check,1.0
+env,environment,1.0
+i,in,0.02857142857142857
+tls,transport layer security,1.0
+hud,heads up display,1.0
+ref,reference,1.0
+d,default,0.2
+i,is,0.11428571428571428
+p,permutation,0.05128205128205128
+alloc,allocator,0.25
+sb,sound blaster,1.0
+i,integer,0.3142857142857143
+apm,advanced power management,1.0
+kp,key pair,1.0
+lssn,log segment sequence number,1.0
+m,map,0.32
+jce,java cryptography extension,1.0
+jps,join points,1.0
+raf,random access file,1.0
+frac,fraction,1.0
+l,light,0.2
+udp,user datagram protocol,1.0
+dto,destination,0.1111111111111111
+u,until,0.3333333333333333
+primitve,primitive,1.0
+pk,primary key,0.6666666666666666
+val,value,1.0
+sso,single sign on,1.0
+c,creator,0.03333333333333333
+f,from,0.023255813953488372
+s,specifier,0.16666666666666666
+st,state,1.0
+multi,multiple,0.4
+expr,expiration,1.0
+nop,no operation,1.0
+p,private,0.23076923076923078
+of,output file,0.2222222222222222
+intra,interval#interval,0.5
+unkown,unknown,1.0
+cfb,configurable function block,1.0
+fs,file separator,1.0
+temp,temporary,1.0
+config,configurable,0.0022675736961451248
+ut,upper triangular,1.0
+r,relative,0.2
+mse,mean squared error,1.0
+b,brokers,0.011627906976744186
+gatt,graphics address translation table,1.0
+mod,modular,0.3333333333333333
+c,common,0.03333333333333333
+ldc,lotus development corporation,1.0
+nc,numerical control,1.0
+is,in service,0.019097222222222224
+add,address,0.9438775510204082
+qos,quality of service,1.0
+xid,exchange identifier,1.0
+min,minimum,1.0
+a,add,0.14285714285714285
+ikm,input keying material,1.0
+clien,client,1.0
+oid,object identifier,1.0
+msec,millisecond,1.0
+sm,shared memory,1.0
+d,debug,0.1
+vec,vector,1.0
+rsp,required space character,1.0
+b,bits,0.03488372093023256
+ocsp,online certificate status protocol,1.0
+b,byte,0.05813953488372093
+vistor,visitor,1.0
+seq,sequence,1.0
+vi,visual interactive,1.0
+s,service,0.03333333333333333
+b,big,0.05813953488372093
+b,by,0.011627906976744186
+async,asynchronous,0.9881656804733728
+gl,general ledger,1.0
+tm,trademark,0.5
+v,verification,0.05
+out,output,1.0
+kek,key encryption key,1.0
+hls,hue luminance saturation,1.0
+b,be,0.011627906976744186
+lst,list,1.0
+gpl,general public license,1.0
+mul,multiplicative,0.008928571428571428
+messge,message,1.0
+div,division,1.0
+v,view,0.05
+cmc,communication management configuration,1.0
+orig,original,1.0
+prf,preferences,1.0
+ms,microsoft corporation,0.9473684210526315
+fk,foreign key,1.0
+ddl,data description language,1.0
+ok,okay,1.0
+ac,all capable,0.42857142857142855
+pms,policy management system,1.0
+a,allowed#associated,0.03571428571428571
+csv,comma separated value variable,1.0
+pdu,plug distribution unit,1.0
+is,instruction set,0.008680555555555556
+na,name,1.0
+unregister,unregistered,1.0
+acl,asynchronous connection less,1.0
+lib,library,1.0
+mk,make,1.0
+crt,cathode ray tube,1.0
+fpr,floating point register,1.0
+s,supports,0.03333333333333333
+sq,squeezed,0.125
+p,perform,0.07692307692307693
+bs,blocks,0.06666666666666667
+inet,internet,1.0
+k,ki,0.07142857142857142
+config,configurations,0.006802721088435374
+desc,descriptor,0.8333333333333334
+rw,read write,1.0
+acks,acknowledgements,1.0
+ints,internals,0.07692307692307693
+oom,out of memory,1.0
+utils,utilities,1.0
+mkdir,make directory,1.0
+vm,virtual machine,1.0
+b,biome,0.023255813953488372
+bom,beginning of message,1.0
+dc,data communication,1.0
+c,code,0.03333333333333333
+aes,advanced encryption standard,1.0
+rsa,rural service area,1.0
+ctx,context,1.0
+osp,optical storage processor,1.0
+codec,compression decompression,1.0
+dpi,distributed protocol interface,1.0
+gc,get class,0.0625
+simd,single instruction multiple data stream,1.0
+n,number returned,1.0
+recip,recipient,1.0
+br,bad register,1.0
+f,fixed,0.06976744186046512
+uid,user identifier,1.0
+udf,user defined functions,1.0
+gc,garbage collection,0.71875
+f,falcon,0.023255813953488372
+zk,zoo keeper,0.6190476190476191
+c,correct,0.06666666666666667
+concat,concatenates,1.0
+b,being,0.011627906976744186
+wifi,wireless fidelity,1.0
+p,padding,0.02564102564102564
+enum,enumeration,1.0
+dev,develop,1.0
+mm,minutes,1.0
+sha,secure hash algorithm,1.0
+sub,subscriber,0.6086956521739131
+obj,object,1.0
+or,override,0.07142857142857142
+co,company,1.0
+ns,network supervisor,0.75
+workflows,workflows,1.0
+oob,out of band,1.0
+dec,decrement,0.18518518518518517
+jit,just in time,1.0
+algo,algorithm,1.0
+s,stream,0.03333333333333333
+a,availability,0.03571428571428571
+ap,accounts payable,1.0
+corp,corporation,1.0
+dsa,digital signature algorithm,1.0
+ls,list,0.25
+t,test,0.4358974358974359
+at,atomic,1.0
+cp,copy protected,1.0
+c,cb,0.06666666666666667
+d,double,0.1
+uri,uniform resource identifier,1.0
+refs,references,1.0
+iii,interstate identification index,1.0
+jsp,java server page,1.0
+fps,favorite picture selection,1.0
+init,initialize,0.964824120603015
+lt,long text,0.3333333333333333
+attrs,attributes,1.0
+g,generator,0.6
+milli,millisecond,1.0
+l,leaf,0.2
+b,bytes,0.046511627906976744
+do,ditto,0.44
+or,object reference,0.9285714285714286
+a,allows,0.07142857142857142
+bg,background,1.0
+ml,machine language,1.0
+ecb,event control block,1.0
+ip,is provisioned,0.005434782608695652
+chs,characters,1.0
+xsl,extensible stylesheet language,1.0
+lq,letter quality,1.0
+stats,statistics,1.0
+dim,dimension,1.0
+ede,encrypt decrypt encrypt,1.0
+url,uniform resource locator,1.0
+t,to,0.41025641025641024
+f,functions,0.13953488372093023
+m,mix,0.04
+req,request,1.0
+gc,garbage collector,0.15625
+mb,megabyte,1.0
+df,destination field,1.0
+j,job,1.0
+cbc,cipher block chaining,1.0
+pid,proportional integral derivative,1.0
+eval,evaluation,0.5
+v,version,0.15
+img,image,1.0
+xp,extreme performance,1.0
+ds,dhrystone per second,1.0
+cc,carbon copy,1.0
+aa,attribute authority,1.0
+elem,element,1.0
+eval,evaluated,0.5
+spec,specification,1.0
+ts,top secret,0.9230769230769231
+m,mid,0.04
+gte,general telephone electronics,1.0
+exec,execute,1.0
+tlm,trust list message,1.0
+kvs,key value,0.75
+jdk,java development kit,1.0
+args,arguments,1.0
+dp,data processing,1.0
+kt,key tab,1.0
+rng,random number generator,1.0
+dto,detection,0.4444444444444444
+sym,symbols,1.0
+dml,data manipulation language,1.0
+fips,federal information processing standard,1.0
+esp,encapsulating security payload,1.0
+adv,advance,1.0
+def,definition,1.0
+asn,autonomous system number,1.0
+sig,special interest group,0.9807692307692307
+buid,build,1.0
+a,available#after,0.03571428571428571
+geo,geostationary earth orbit,1.0
+gcd,greatest common divisor,1.0
+pfc,producer flow control,1.0
+w,write,1.0
+init,initialization,0.008375209380234505
+dao,data access object,1.0
+cn,common name,1.0
+s,step,0.06666666666666667
+kv,key value,1.0
+nic,numeric intensive computing,1.0
+dou,double,1.0
+configs,configurables,0.03636363636363636
+b,bad,0.011627906976744186
+dyn,dynamic,1.0
+smime,secure mime,1.0
+kvs,key values,0.25
+b,backup,0.011627906976744186
+exired,expired,1.0
+ssh,secure shell,1.0
+inv,inventory,0.9666666666666667
+proc,procedure,1.0
+stdout,standard output,1.0
+rq,request,1.0
+tf,test format,1.0
+tm,time,0.5
+tst,time stamp token,0.3076923076923077
+d,dim,0.1
+coord,coordinator,1.0
+impl,implement,1.0
+misc,miscellaneous,1.0
+ng,no good,1.0
+pw,password,1.0
+d,dh,0.4
+ip,is possible,0.005434782608695652
+com,command,1.0
+vs,virtual storage,0.8
+dlq,dead letter queue,1.0
+ca,certification authority,1.0
+qd,querty dvorak,1.0
+e,empty,0.5
+nio,native input output,1.0
+bs,backspace,0.8333333333333334
+pre,preformatted,0.9852941176470589
+v,void,0.575
+desc,description,0.16666666666666666
+if,interface,1.0
+circ,cross interleaved reed solomon code,1.0
+dests,destinations,1.0
+attribut,attribute,1.0
+d,do,0.1
+procs,procedures,1.0
+eof,enterprise objects framework,1.0
+certs,certificates,1.0
+info,information,1.0
+u,up,0.6666666666666666
+is,image size,0.001736111111111111
+ast,atlantic standard time,1.0
+lep,light emitting polymers,1.0
+le,less or equal,1.0
+f,functionality,0.023255813953488372
+mpi,message passing interface,1.0
+msb,most significant bit,1.0
+ms,metrics,0.02631578947368421
+pub,public,1.0
+spt,sectors per track,1.0
+reqest,request,1.0
+ser,serial,1.0
+aabb,axis aligned bounding box,1.0
+ac,alternating current,0.5714285714285714
+ie,internet explorer,1.0
+doc,document,1.0
+rol,rotate left,1.0
+for,format,1.0
+eax,environmental audio extensions,1.0
+isr,information storage and retrieval,1.0
+dat,data,1.0
+serv,service,1.0
+rf,replication factor,1.0
+ip,intellectual property,0.9782608695652174
+icomp,intel comparative microprocessor performance,1.0
+fp,floating point,1.0
+calc,calculate,1.0
+ps,postscript,1.0
+p,pair,0.05128205128205128
+osgi,open services gateway initiative,1.0
+conf,confirm,0.7777777777777778
+setext,structure enhanced text,1.0
+apps,applications,1.0
+ecn,electronic communications network,1.0
+pem,privacy enhanced mail,1.0
+s,salt,0.2
+vects,vectors,1.0
+a,appendix,0.03571428571428571
+jmx,java management extensions,1.0
+s,sst,0.06666666666666667
+q,queue,1.0
+http,hypertext transfer protocol,1.0
+parens,parentheses,1.0
+ra,real audio,1.0
+std,standard,1.0
+r,revision,0.2
+ai,artificial intelligence,1.0
+reg,register,1.0
+db,data buffer,0.782608695652174
+a,allowed#all,0.03571428571428571
+str,string,1.0
+ibm,international business machines,1.0
+int,integer,1.0
+rpc,remote procedure call,1.0
+perf,performance,1.0
+sq,square,0.875
+dns,den name syntax,0.09523809523809523
+b,but,0.023255813953488372
+vs,voids,0.2
+v,vector,0.05
+ssl,secure socket layer,1.0
+as,assigned,1.0
+transformaion,transformation,1.0
+ins,insurance,1.0
+m,mod,0.04
+bimap,bitmap,1.0
+ip,if parsing,0.005434782608695652
+resp,response,1.0
+no,not open,0.42857142857142855
+ccitt,comite consultatif international telegraphique et telephonique consultative committee for international telegraph and telephone,1.0
+a,and,0.10714285714285714
+printf,print with formatting,1.0
+delim,delimiter,1.0
+api,application program interface,1.0
+usb,universal serial bus,1.0
+recv,receive,1.0
+sub,subtract,0.34782608695652173
+async,asynchronously,0.011834319526627219
+config,configure,0.0022675736961451248
+e,ed,0.25
+wc,word count,1.0
+util,utility,1.0
+a,aria,0.03571428571428571
+recever,receiver,1.0
+asm,assembler source language,1.0
+ao,analog output,1.0
+lms,lotus messaging switch,1.0
+sd,secure digital,1.0
+msgs,messages,1.0
+m,mx,0.12
+p,point,0.07692307692307693
+pgp,program parameter,1.0
+bs,bits,0.03333333333333333
+bs,benchmarks,0.06666666666666667
+cmp,computer,1.0
+vram,video random access memory,1.0
+epc,electronic product code,1.0
+psid,postscript image data,1.0
+i,implement,0.05714285714285714
+sp,system product,1.0
+smtp,simple mail transfer protocol,1.0
+s,spec,0.06666666666666667
+max,maximum,1.0
+alloc,allocation,0.25
+guid,global universal identifier,1.0
+num,number,1.0
+https,hypertext transfer protocol secure,1.0
+srp,script,1.0
+addrs,addresses,1.0
+dirs,directories,1.0
+no,number of,0.5714285714285714
+hdr,header,1.0
+pt,part time,1.0
+dst,destination,1.0
+ia,intel architecture,1.0
+rp,retry policy,1.0
+lng,language,1.0
+ts,tests,0.07692307692307693
+rpm,revolutions per minute,1.0
+is,island,0.9704861111111112
+rev,revision,1.0
+gui,graphical user interface,1.0
+lt,linear transformation,0.6666666666666666
+ip,is performed,0.005434782608695652
+cls,common language support,1.0
+ary,array,1.0
+pos,position,1.0
+gc,get compact,0.0625
+dist,distribute,1.0
+exc,exceptions,1.0
+bidi,bi directional,1.0
+bmp,bitmap,1.0
+itr,information technology research,1.0
+a,ato,0.03571428571428571
+admin,administration,0.9615384615384616
+dns,domain naming system,0.9047619047619048
+sys,system,1.0
+cal,computer aided learning,1.0
+ttl,transistor transistor logic,1.0
+id,identification,1.0
+jsse,java secure socket extension,1.0
+proj,project,1.0
+ascii,american standard code for information interchange,1.0
+c,collector,0.06666666666666667
+alt,alternate lifestyle,1.0
+non,name or null,0.75
+i,interface,0.11428571428571428
+dl,data link,0.034482758620689655
+in,input,1.0
+sqrt,square root,1.0
+dest,destination,1.0
+add,additional,0.025510204081632654
+ns,names,0.25
+mvc,multimedia viewer compiler,1.0
+s,string,0.1
+atx,advanced technology extended,1.0
+arg,argument,1.0
+var,variable,1.0
+alphabetial,alphabetical,1.0
+v,vertex,0.025
+ec,electronic commerce,1.0
+mul,multiply,0.9821428571428571
+svn,switched virtual network,1.0
+rety,retry,1.0
+s,sub,0.1
+sc,script,1.0
+svg,scalable vector graphics,1.0
+app,application,0.9927007299270073
+gp,general purpose,1.0
+of,overflow,0.7777777777777778
+jvm,java virtual machine,1.0
+ops,operations,1.0
